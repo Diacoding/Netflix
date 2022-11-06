@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+}
+label{
+    font-size:30px;
+    font-family:Arial, Helvetica, sans-serif
+}
+input,textarea{
+    padding:20px 20px;
+    font-size:20px;
+    border-radius:30px;
+    border:none;
+    box-shadow:0px 0px 30px grey;
+
+}
+
+#btn{
+    cursor:crosshair;
+}
+.subscription a{
+    background: red;
+    color:white;
+    text-decoration: none;
+    padding:10px 20px;
+    margin-right:20px;
+    border-radius:10px;
+ }
+
+.button-9{
+    position:absolute;
+    top:2%;
+    left:35%;
+}
+.button-10{
+    position:absolute;
+    top:2%;
+    left:42%;   
+}
+.button-11{
+    position:absolute;
+    top:2%;
+    left:49%;   
+}
+.button-12{
+    position:absolute;
+    top:2%;
+    left:57%;   
+}
